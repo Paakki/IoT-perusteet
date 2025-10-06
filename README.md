@@ -28,12 +28,16 @@ Kurssilla tehtyjä harjoituksia
 
    b) wifi
 
-3. tunti - Basics of backend programming
+3. tunti - Basics of API's and databases
 
    server.js
    
    pipeline valmiiksi anturilta palvelimelle => Wokwi + ThingSpeak
 
-5. tunti - Basics of API's and databases
+4. tunti - Basics of frontend programming
 
-6. tunti - Basics of frontend programming
+   koodi, joka sisältää kaavion API endpointista haetusta datasta, 
+
+   kokonainen IoT-pipeline toimii: Laitekoodi Wokwilla -> ThingSpeak -> Frontend koodi yksinkertaisella dashboardilla
+
+   Periaatteessa yllämainitun mukainen tunnilla suoritettu tehtävä, joka saatu toimimaan. Eli wokwilla lämpötilaa mittaava anturi -> lähettää tiedon thingspeakkiin -> tästä dashboardille piirtyy kuvaaja
