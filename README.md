@@ -41,3 +41,5 @@ Kurssilla tehtyjä harjoituksia
    kokonainen IoT-pipeline toimii: Laitekoodi Wokwilla -> ThingSpeak -> Frontend koodi yksinkertaisella dashboardilla
 
    Periaatteessa yllämainitun mukainen tunnilla suoritettu tehtävä, joka saatu toimimaan. Eli wokwilla lämpötilaa mittaava anturi -> lähettää tiedon thingspeakkiin -> tästä dashboardille piirtyy kuvaaja
+
+   Tämä siis "fetch" harjoitus
