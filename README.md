@@ -3,6 +3,7 @@
 Kurssilla tehtyjä harjoituksia
 
 1. tunti - Basics of embedded programming
+
    a. Turn the led on with a button
    
    b. Traffic lights
