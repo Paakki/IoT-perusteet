@@ -28,8 +28,11 @@ Kurssilla tehtyjä harjoituksia
 
    b) wifi
 
-4. tunti - Basics of backend programming
+3. tunti - Basics of backend programming
 
+   server.js
+   
+   pipeline valmiiksi anturilta palvelimelle => Wokwi + ThingSpeak
 
 5. tunti - Basics of API's and databases
 
