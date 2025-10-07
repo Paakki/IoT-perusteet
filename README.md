@@ -42,4 +42,6 @@ Kurssilla tehtyjä harjoituksia
 
    Periaatteessa yllämainitun mukainen tunnilla suoritettu tehtävä, joka saatu toimimaan. Eli wokwilla lämpötilaa mittaava anturi -> lähettää tiedon thingspeakkiin -> tästä dashboardille piirtyy kuvaaja
 
-   Tämä siis "fetch" harjoitus
+   Tämä siis "fetch" harjoitus, jossa näkyy lopputulos käyttäjälle.
+
+   Tässä siis ei ole luotu kokonaista pipelineä yhteenpaikkaan kuten ehkä oli tarkoitus vaan koko päivä mennyt tutustuessa git, githubiin ja palasien toimivuuteen ja tänne saamiseen. Mysteeriksi vielä jäi mitä gittikansiot ja gitignoret oikeastaan omalla koneella teki kun palasia luotiin, mutta mitään ei pushattu niiden avulla tänne. Kova työmaa viimeisen tunnin jälkeen alkaa kokoamaan kaikkea kasaan mitä on tunneilla tehty :)
